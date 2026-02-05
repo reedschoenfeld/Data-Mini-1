@@ -110,5 +110,5 @@ Data Mini #1 was organized by Duke's Statistical Science Majors Union - Competit
 * Derek Wang, ‘28
 * Amy Xu, ‘27
 * Allison Yang, ‘27
-And an additional thank-you goes out to the professors who helped advertise the event.
+* And an additional thank-you goes out to the professors who helped advertise the event.
 
