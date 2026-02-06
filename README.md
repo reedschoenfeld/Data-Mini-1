@@ -4,9 +4,9 @@ Welcome to Data Mini #1! You and your teammates will have 2 hours to explore and
 This Git repository contains this `README` file and the dataset in both `CSV` and `RDS` formats. This  `README` will include the dataset's dictionary, along with the rubric and policies. The `CSV` and the `RDS` have the same rows and columns, but the `RDS` will preserve R data types exactly (factors, dates, lists, etc.). We recommend you use Duke's Container Manager to access your preferred IDE. 
 
 ## How to Participate
-1. Fork this repository
+1. Fork the repository emailed to you by trisha.iyer@duke.edu
 2. Load the data from `data/texasdata.csv` or `data/texasdata.rds`
-3. Analyze the dataset and prepare a presentation of your findings
+3. Come up with a question to answer with data analysis. Analyze the dataset and prepare a presentation of your findings.
 4. AFTER ANALYZING TIMEFRAME: Submit your presentation slides **that include the forked repository link** to the Google Drive so we can screenshare it.
 Please do not attempt to push changes to this repository - it is read-only for participants.
 
@@ -59,26 +59,29 @@ Same-race teachers improve academic outcomes for minoritized students, yet most 
 * You may NOT copy from the original student-teacher race match study - doing so will result in a major point deduction
 
 ## Analysis
+* Must answer a question that your team chooses
 * All types of data modeling are allowed
 * All coding languages are allowed
 
 ## Submission Requirements
-We will give teams ~5 minutes after the 2-hour analysis period to submit their code notebook (QMD, PDF, Jupyter, etc.) and presentation media (slides, PDF, etc.) to the Google Drive folder
-* You and your teammates will have received an email from _____@duke.edu near the beginning of the competition start
-* Your team’s Google Drive folder contents will not be accessible to view, comment, or edit by any other team
+We will give teams ~5 minutes after the 2-hour analysis period to upload their presentation media (slides, PDF, etc.) to the Google Drive folder
+* This presentation media must include a link to your forked repository and the citation of the dataset.
+* You and your teammates will have received an email from susan.li@duke.edu near the beginning of the competition start
+* Your team’s Google Drive folder contents will not be accessible to view, comment on, or edit by any other team
 
 ## Presentation Guidelines
 * Present using any format: Quarto doc, slides, visualizations, etc: Your chosen presentation media will be projected by an SSMU member through your Google Drive
 * Presentations will be recorded during the event.
 * Recordings will be sent to you and your teammates a few days following the event
-* SSMU would love to share your analysis with QSIDE and the original dataset creators! The dataset and study were created by previous undergraduate students at Williams College in 2023. If you would like to opt into this opportunity, please let us know!
+* SSMU would love to **share your presentation recording with QSIDE and the original dataset creators**! The dataset and study were created by previous undergraduate students at Williams College in 2023. If you would like to opt into this opportunity, please let us know!
 * Presentation order will be randomized, but let us know beforehand if your team has a preference for going first, last, or in the middle
 ## Judging
 * Winners will be announced on Sunday, February 15
-* Presentations will be judged by the story your analysis tells, more than by the level of statistics your team members used. This will account for differing experience levels across competitors
+* As stated earlier, you must come up with a question that your team will use to guide your statistical analysis. 
+* Presentations will be judged based on the story your analysis tells to answer the question of your team's choice (why you were interested in the question's topic and how you got to the results). This will be prioritized more than the experience level of the statistical methods your team members used. This will account for differing experience levels across competitors
 * A fair evaluation will be justified by multiple people deciding on competition winners.
 ## Other Competitions from SSMU
-1) Duke’s StatSci Majors Union will be hosting Data Mini #2 from Feb. 28 - Mar. 1. This competition will be a little different: There will be a one-hour information session on Feb. 27th from 5:30-6:30 pm in Old Chem 001. From there, you and your team will have until Mar. 1 at 11:59 pm to submit materials and a video recording of findings to a Google Drive folder. Please contact Chelsea Nguyen (chelsea.nguyen@duke.edu) if you have any questions!
+1) Duke’s StatSci Majors Union will be hosting Data Mini #2 from Feb. 28 - Mar. 1. This competition will be a little different: There will be a one-hour information session on Feb. 27th from 5:30-6:30 pm in Old Chem 001. From there, you and your team will have until Mar. 1 at 11:59 pm to submit materials and a video recording of findings to a Google Drive folder. Please contact Chelsea Nguyen (chelsea.nguyen@duke.edu) with any questions!
 2) In addition, ASA DataFest 2026 at Duke, organized by the Department of Statistical Science, will take place in Perkins Library on Duke University West Campus, Friday, March 20, through Sunday, March 22. Similar to Data Minis, DataFest is a data analysis competition where teams of up to five students attack a large, complex, and surprise data set over a weekend. Please reach out to Dr. Alexander Fisher (alexander.fisher@duke.edu) with any questions.
 
 
